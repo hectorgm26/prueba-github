@@ -1,1 +1,1 @@
-console.log("Ejecutando un Hola UwU"
+console.log("Ejecutando un Hola UwU");
